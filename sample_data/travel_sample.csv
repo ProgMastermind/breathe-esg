@@ -1,0 +1,26 @@
+EmployeeID,ReportName,ExpenseType,Merchant,DepartureCode,ArrivalCode,Amount,Currency,ExpenseDate,CabinClass,Nights,Notes
+EMP-1042,Q1 NYC Client Visit,Air Travel,British Airways,LHR,JFK,1250.00,USD,2024-01-15,Economy,,LHR-JFK outbound
+EMP-1042,Q1 NYC Client Visit,Hotel,Marriott Times Square,,,320.00,USD,2024-01-15,,3,3 nights NYC
+EMP-1042,Q1 NYC Client Visit,Car Rental,Hertz Manhattan,,,180.00,USD,2024-01-16,,,Manhattan pickup drop JFK
+EMP-1042,Q1 NYC Client Visit,Air Travel,British Airways,JFK,LHR,1250.00,USD,2024-01-18,Economy,,JFK-LHR return
+EMP-2078,Berlin Conference,Air Travel,Lufthansa,LHR,TXL,380.00,EUR,2024-01-22,Economy,,LHR-TXL
+EMP-2078,Berlin Conference,Hotel,Hilton Berlin,,,195.00,EUR,2024-01-22,,2,2 nights
+EMP-2078,Berlin Conference,Rail,Deutsche Bahn,,,45.00,EUR,2024-01-23,,,Berlin city rail
+EMP-2078,Berlin Conference,Air Travel,Lufthansa,BER,LHR,395.00,EUR,2024-01-24,Economy,,BER-LHR return
+EMP-3015,Singapore Sales Trip,Air Travel,Singapore Airlines,LHR,SIN,2800.00,SGD,2024-02-05,Business,,Long haul business class
+EMP-3015,Singapore Sales Trip,Hotel,Marina Bay Sands,,,580.00,SGD,2024-02-05,,4,4 nights
+EMP-3015,Singapore Sales Trip,Air Travel,Singapore Airlines,SIN,LHR,2800.00,SGD,2024-02-09,Business,,Return
+EMP-1099,Chicago Quarterly Review,Air Travel,United Airlines,LHR,ORD,950.00,USD,2024-02-12,Economy,,
+EMP-1099,Chicago Quarterly Review,Hotel,Hyatt Chicago,,,245.00,USD,2024-02-12,,2,
+EMP-1099,Chicago Quarterly Review,Taxi,Uber,,,85.00,USD,2024-02-12,,,Airport transfers x2
+EMP-1099,Chicago Quarterly Review,Air Travel,United Airlines,ORD,LHR,950.00,USD,2024-02-14,Economy,,
+EMP-4201,Paris Meeting,Air Travel,Air France,LHR,CDG,420.00,GBP,2024-02-20,Economy,,Day return
+EMP-4201,Paris Meeting,Rail,Eurostar,LHR,CDG,320.00,GBP,2024-02-20,Business,,Alternative to flight - day trip Eurostar
+EMP-5033,Mumbai Project,Air Travel,British Airways,LHR,BOM,3200.00,GBP,2024-03-04,Economy,,
+EMP-5033,Mumbai Project,Hotel,Taj Lands End,,,210.00,USD,2024-03-04,,5,
+EMP-5033,Mumbai Project,Air Travel,British Airways,BOM,LHR,3200.00,GBP,2024-03-09,Economy,,
+EMP-2078,Amsterdam Day Trip,Air Travel,KLM,LHR,AMS,280.00,EUR,2024-03-18,Economy,,Day trip no hotel
+EMP-1042,Sydney Conference,Air Travel,Qantas,LHR,SYD,4100.00,GBP,2024-03-25,Economy,,
+EMP-1042,Sydney Conference,Hotel,Marriott Sydney,,,390.00,AUD,2024-03-25,,3,
+EMP-1042,Sydney Conference,Air Travel,Qantas,SYD,LHR,4100.00,GBP,2024-03-28,Economy,,
+EMP-3015,Local Ground,Taxi,Uber,,,42.00,GBP,2024-04-02,,,Office to Heathrow

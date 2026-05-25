@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.env
+.env.*
+!.env.example
+backend/staticfiles/
+backend/media/
+# Keep static/dist in git — Railway doesn't have a Node build step
+node_modules/
+frontend/dist/
+.vite/
+*.log
+.DS_Store
+.claude/
